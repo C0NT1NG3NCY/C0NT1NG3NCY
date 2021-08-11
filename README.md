@@ -1,6 +1,6 @@
 👋 Hey it's @C0NT1NG3NCY.
 🌱 Archives of cryptography media decodes.
-💞️ Nice to meet you: https://discord.gg/CbJV8XUCEA
+💞️  Nice to meet you: https://discord.gg/CbJV8XUCEA
 📫 contingencyglobal@protonmail.com
 
 <!--
